@@ -45,5 +45,4 @@
 
 ## 📊 GitHub Stats
 
-![Saif's GitHub stats](https://github-readme-stats.vercel.app/api?username=saifboubndira&show_icons=true&theme=radical)
 
