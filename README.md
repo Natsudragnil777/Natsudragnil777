@@ -6,7 +6,7 @@
 
 ## 💻 What I'm Currently Doing
 
-- 🔐 Learning web and system penetration testing.
+- 🔐 Learning web application penetration testing.
 - 🛠 Practicing Linux, Bash scripting, and cybersecurity tools.
 - 🌍 Improving my frontend and backend web development skills.
 - 📂 Using Git and GitHub to manage my projects and progress.
@@ -30,9 +30,8 @@
 
 ## 🎯 2025 Goals
 
-- ✅ Build open-source tools related to penetration testing.
 - 🛠 Develop scripts to automate security tasks.
-- 🎓 Master web and network vulnerability assessment.
+- 🎓 Master web application vulnerability assessment.
 - 🌐 Start freelance work in web application security testing.
 
 ---
