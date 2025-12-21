@@ -28,11 +28,11 @@
 
 ---
 
-## 🎯 2025 Goals
+## 🎯 2026 Goals
 
 - 🛠 Develop scripts to automate security tasks.
 - 🎓 Master web application vulnerability assessment.
-- 🌐 Start freelance work in web application security testing.
+- 🌐 Start freelance work in web development and bug bounty hunting.
 
 ---
 
